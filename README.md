@@ -1,5 +1,5 @@
 # Inicio
-Projetos iniciais que eu fiz no começo de tudo. 
+Projetos iniciais que eu fiz no começo
 
 contem:
 -Calculador de PH
